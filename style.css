@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+a {
+    padding-bottom: 15px;
+}
+
+.titre {
+    padding-bottom: 20px !important;
+    text-align: center !important;
+}
+
+.titre1 {
+    padding-bottom: 30px;
+    text-align: center;
+}
